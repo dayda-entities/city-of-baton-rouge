@@ -10,7 +10,7 @@ source_contact_type: general
 source_phone: +1 555-555-5555
 source_email: info@example.com
 source_catalog: data.gov
-profile_pic: 'https://upload.wikimedia.org/wikipedia/sco/6/68/Baton-Rouge_seal.png'
+profile_pic: 'https://directory.dayda.org/assets/img/entities/city-of-baton-rouge.png'
 favicon: /assets/img/favicon.png
 url: 'http://city-of-baton-rouge.dayda.org'
 encoding: utf-8
